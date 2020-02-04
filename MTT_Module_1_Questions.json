@@ -1,0 +1,29 @@
+{
+    "q2" : "which of the following code is correct to add the code in the coloumn --> alter table table_name",
+    "q3" : "______ is known as optional parameter ---> '?' , '>', '??'  single question answer ",
+    "q4" : "which keytword is used to call the base constructor ---->  answer is super()",
+    "q5" : "which module is required for using ng model ----> answer is formsModule",
+    "q6" : "run the angular 6 app ---->  npm start or ng serve",
+    "q7" : "which of the language is used to creat5e the a6 app -----> anwser is typescript/js/dart",
+    "q8" : "what are the two ways to build forms in angular ---> template and model driven ",
+    "q9" : "angular 6 doesnt provide nested components ---> false",
+    "q10" : "________ directive substitutes the normal href property and makes it easier to work with route links in angular 6 -----> answer router link",
+    "q11" : "______ is used to implement lifecycle  ----> answer rxjs",
+    "q12" : "",
+    "q13" : "",
+    "q14" : "",
+    "q15" : "",
+    "q16" : "",
+    "q17" : "",
+    "q18" : "",
+    "q19" : "",
+    "q20" : "",
+    "q21" : "",
+    "q22" : "",
+    "q23" : "",
+    "q24" : "",
+    "q25" : "",
+    "q26" : ""
+
+
+}
